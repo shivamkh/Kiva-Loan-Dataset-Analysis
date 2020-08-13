@@ -1,16 +1,14 @@
-# Kiva-Loan-Dataset-Analysis
-This is case study for Kiva Loan dataset done in Tableau 
-1 Introduction
+# 1 Introduction  
 Kiva is the non-profit organisation that gives funds to people in the low-income countries (like the
 students and entrepreneurs). Anyone can lend their money to the people (Crowd funded) in need as a
 loan and later stage once the borrower repays the loan the donor can lend their money to new loans
 or they can take back as per their requirement. Kiva manages this with filed partners and money
-taken as an interest from the borrower is used in managing field partners.
-This work focuses on analysing the Kiva loan dataset and focuses to answer the below questions:
-1. Loan analysis based on gender
- most represented gender (gender prevalence in funded loan amounts as per
-countries).
- repayment interval
+taken as an interest from the borrower is used in managing field partners.  
+This work focuses on analysing the Kiva loan dataset and focuses to answer the below questions:  
+1. Loan analysis based on gender  
+ most represented gender (gender prevalence in funded loan amounts as per  
+countries).  
+ repayment interval  
 2. Comparing loan amount for selected group of countries and comparing it to global trend.
 3. How loan amounts are distributed by the sector Globally and for selected countries?
 2 Data
